@@ -1,0 +1,18 @@
+,Number of Schools,Total Students,Total Budget,Average Math Score,Math Pass Rate,Average Reading Score,Reading Pass Rate,Overall Pass Rate
+0,15,"39,170","$24,649,428.00",79.0,74.9808526933878,81.9,85.80546336482001,"school_name
+Bailey High School       54.642283
+Cabrera High School      91.334769
+Figueroa High School     53.204476
+Ford High School         54.289887
+Griffin High School      90.599455
+Hernandez High School    53.527508
+Holden High School       89.227166
+Huang High School        53.513884
+Johnson High School      53.539172
+Pena High School         90.540541
+Rodriguez High School    52.988247
+Shelton High School      89.892107
+Thomas High School       90.948012
+Wilson High School       90.582567
+Wright High School       90.333333
+dtype: float64"
